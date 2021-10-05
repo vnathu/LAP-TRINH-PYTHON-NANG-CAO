@@ -1,0 +1,5 @@
+Nhóm tác giả Phan Chí Anh, Nguyễn Thu Hà,Nguyễn Huệ Minh (tháng 02,năm 2013), “Nghiên cứu các mô hình đánh giá chất lượng dịch vụ”, Trường Đại học Kinh tế - Đại học Quốc gia Hà Nội. 
+Mục tiêu nghiên cứu của nhóm tác giả là tìm hiểu và tổng hợp các mô hình đánh giá chất lượng kĩ thuật/chức năng của Gronoos (1984); 
+mô hình khoảng cách chất lượng dịch vụ của Parasuraman và cộng sự (1985); mô hình tổng hợp chất lượng dịch vụ của Brogowicz và cộng sự (1990);
+ mô hình đánh giá dựa trên kết quả thực hiện của Cronin và Taylor (1992); mô hình tiền đề và trung gian của Dabholkar và cộng sự (2000) 
+à mô hình chất lượng dịch vụ trong ngân hàng trực tuyến của Broderick và Vachirapornpuk (2002). Việc tổng hợp và phân tích các mô hình này cho thấy đánh giá chất lượng dịch vụ phụ thuộc đáng kể vào từng loại hình dịch vụ, yếu tố thời gian và nhu cầu khách hàng.
